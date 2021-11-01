@@ -1,0 +1,6 @@
+﻿{
+  "DataConnectionString": "Data Source=DESKTOP-8RVK4D3;Initial Catalog=FerroTechnicsNopcommerce;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=googlef12",
+  "DataProvider": "sqlserver",
+  "SQLCommandTimeout": null,
+  "RawDataSettings": {}
+}
